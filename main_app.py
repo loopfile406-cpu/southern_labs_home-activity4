@@ -30,8 +30,3 @@ def main():
     print('Transection 5: ', amount5)
     
     print("Average transection: ", formatted_average)
-
-
-
-if __name__ == "__main__":
-    main()
